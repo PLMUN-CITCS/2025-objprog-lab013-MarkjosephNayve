@@ -1,4 +1,4 @@
-public class ParametersAndArguements {
+public class ParametersAndArguments {
     public static int calculateArea (int width, int height) {
         int area = width * height;
         return area;
